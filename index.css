@@ -1,0 +1,96 @@
+header{
+    background-image: url(./img/Comment-Photographier-la-pleine-Lune-Paysage.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 89%);
+}
+header .row{
+    min-height:70vh ;
+    align-items: center;
+    
+}
+header .reserv{
+    background-color: rgba(0,0,0,0.5);
+    min-height: 70vh;
+    
+}
+#present .media:hover{
+    background-color: rgba(128,128,128,0.5);
+}
+
+#present .row #span3{
+    color: #d7b841;
+    font-size: 2rem;
+    width: 3rem;
+    text-align: center;
+    cursor: pointer;
+}
+#present .row #span4{
+    color: #d7b841;
+    font-size: 2rem;
+    width: 3rem;
+    text-align: center;
+    cursor: pointer;
+}
+#present .row #span2{
+    color: #d7b841;
+    font-size: 2rem;
+    width: 3rem;
+    text-align: center;
+    cursor: pointer;
+}
+#present .row #span1{
+    color: #d7b841;
+    font-size: 2rem;
+    width: 3rem;
+    text-align: center;
+    cursor: pointer;
+}
+#avis{
+    background-color:#d3dae4;
+    min-height:calc(100vh - 50px);
+}
+#avis-img{
+    background-image: url(./img/68329670-l-atmosphère-à-l-intérieur-de-l-hôtel-magnifiquement-décoré.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    min-height:calc(100vh - 50px);
+}
+#avis span{
+    font-size: 6rem;
+    color: #17abd8;
+}
+#avis h5{
+font-size: 2rem;
+    color: #888;
+}
+#contact{
+    background-image: url(img/63198414_XL.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    min-height:calc(100vh - 50px);
+}
+#contact .row{
+    min-height:calc(100vh - 50px);
+}
+
+.formContact{
+    background-color: rgba(255,255,255,.7);
+    padding: 2rem 3rem;
+}
+footer a{
+    color: #999;
+    font-size: 2rem;
+}
+footer{
+    background-color: rgba(0,0,0,0.8);
+    color: #999;
+    padding-top:2rem ;
+    padding-bottom: 1.5rem;
+
+}
+
+
