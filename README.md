@@ -1,3 +1,3 @@
 # appli-hotel-spa-bootstrap-html-css
-une application mon-page spa hotel de luxe..realiser avec bootstrap/html/css/font-awesom /css-all/
+une application mon-page spa hotel de luxe..realiser avec bootstrap/html/css/font-awesom /css-all/clippy
 pour utiliser le ccode rajouter la ligne cdn de fontawsom dans le head...
